@@ -1,0 +1,19 @@
+{
+  "name": "dz8",
+  "version": "1.0.0",
+  "description": "Практическая работа к модулю 8",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Карпова Валерия Сергеевна",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "pg": "^8.13.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
+
